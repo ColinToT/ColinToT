@@ -1,4 +1,4 @@
-# Hi, I'm Yuanxi 👋
+# Hi, I'm Yuanxi(Colin) 👋
 
 I'm a software engineer with 5 years of professional experience in Java and full-stack development, primarily in enterprise financial systems.
 
